@@ -1,0 +1,12 @@
+# .NET
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# User secrets
+appsettings.Development.json
+
+# Logs
+*.log
