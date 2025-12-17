@@ -43,7 +43,7 @@ EncurtadorUrl.Infraestrutura → Persistência, EF Core e implementações
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * .NET 6
 * ASP.NET Core Web API
@@ -80,7 +80,7 @@ No projeto **EncurtadorUrl.Api**, configure a connection string no arquivo:
 
 ---
 
-## 🗄 Migrations (Entity Framework)
+## Migrations (Entity Framework)
 
 Criar a migration inicial:
 
@@ -172,4 +172,3 @@ Essa abordagem é simples, eficaz e suficiente para o escopo do desafio.
 ## Autor
 
 Projeto desenvolvido como desafio técnico em **ASP.NET Core**, demonstrando domínio de arquitetura, boas práticas e organização de código.
-
